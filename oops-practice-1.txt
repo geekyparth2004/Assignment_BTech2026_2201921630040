@@ -1,0 +1,10 @@
+Q.2 - Write a c++ program using object oriented programming design a class of teacher where attributes are as follows:
+1. Name
+2. Department
+3. Employee Id 
+4. Salary 
+
+Now after declaring attributes write a method where the department is changing with the new department.
+Now use access modifiers as well where salary will be the private member and will be retrieved by getter and setter methods and rest all are public members.  
+Also use these attributes by creating two objects name "Geeta" and "Babita" 
+
