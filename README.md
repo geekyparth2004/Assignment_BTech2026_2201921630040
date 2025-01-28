@@ -94,3 +94,34 @@ Output Format
 In the int Student::calculateTotalScore() function, you must return the student's total grade (the sum of the values in ).
 
 The locked code in the editor will determine how many scores are larger than Kristen's and print that number to the console.
+
+
+
+28 - Jan - 2025 
+
+OOPS QUESTION -- 
+
+Create a class BankAccount that represents a simple bank account. It should have:
+
+Private attributes: accountNumber (string), balance (double).
+A constructor to initialize the attributes.
+Member functions to:
+Deposit an amount.
+Withdraw an amount (only if sufficient balance is available).
+Display the account details.
+
+
+SQL QUESTION -- 
+
+
+Query all attributes of every Japanese city in the CITY table. The COUNTRYCODE for Japan is JPN.
+
+The CITY table is described as follows:
+
+ID - NUMBER 
+
+NAME - TEXT 
+
+DISTRICT - TEXT 
+
+POPULATION - NUMBER
