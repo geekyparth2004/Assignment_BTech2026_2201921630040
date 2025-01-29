@@ -125,3 +125,26 @@ NAME - TEXT
 DISTRICT - TEXT 
 
 POPULATION - NUMBER
+
+
+
+29 - JAN - 2025
+
+CPP QUESTION --- PLATFORM USED -- HACKERANK 
+
+Write a C++ program to define a Teacher class with attributes (name, salary, department, id). Implement function overloading for a method rectangle(), where:
+
+One version prints "HELLO".
+Another version takes a double parameter and prints the salary.
+Create an object of the class and call the overloaded method.
+
+
+SQL QUESTION -- PLATFROM USED -- HACKERANK 
+
+Query the list of CITY names from STATION that either do not start with vowels or do not end with vowels. Your result cannot contain duplicates.
+
+Input Format
+
+The STATION table is described as follows:
+
+
